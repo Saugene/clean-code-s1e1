@@ -18,8 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-  .eisenhower-block { text-align: center;
-}
+  
+  .eisenhower-block { 
+    text-align: center;
+  }
+  
 }
 .container {
   display: block;
