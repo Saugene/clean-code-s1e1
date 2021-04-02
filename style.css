@@ -4,24 +4,24 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.eisenhower-block-header {
+.eisenhower-block {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.eisenhower-block-header img {
+.eisenhower-block img {
   width: 100%;
 }
-.eisenhower-block-header .eisenhower-block-header__text {
+.eisenhower-block .eisenhower-block__text {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .eisenhower-block-header { text-align: center;
+  .eisenhower-block { text-align: center;
 }
 }
-.centered-main-page-element {
+.container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
